@@ -1,0 +1,108 @@
+// Circler Queue
+#pragma once
+
+
+#define df_TEMP_BUFFER_SIZE 2000
+class CStreamQueue
+{
+public :
+	enum eSTREAM_QUEUE
+	{
+		eBUFFER_SIZE_DEFAULT	= 4000,
+		eBUFFER_BLANK			= 1			// 8, 4로 해도 되고 별 상관 없음
+	};
+
+public :
+	///////////////////////////////////////
+	// 생성자, 소멸자. 
+	///////////////////////////////////////
+	CStreamQueue(void);						// default 생성자. Queue_size 20480
+	CStreamQueue(int _iSize);				// Queue_size를 입력받은 생성자.
+
+	virtual ~CStreamQueue();				// default 소멸자
+
+	///////////////////////////////////////
+	// Buffer생성 및 큐 초기화
+	///////////////////////////////////////
+	void Initial(int _iBufferSize = eBUFFER_SIZE_DEFAULT);
+
+	///////////////////////////////////////
+	// 버퍼 전체의 용량을 얻음.
+	///////////////////////////////////////
+	int GetBufferSize(void);
+
+	///////////////////////////////////////
+	// 버퍼의 현재 사용량 얻기.
+	///////////////////////////////////////
+	unsigned int GetUseSize(void);
+
+	///////////////////////////////////////
+	// 버퍼의 현재 가용량 얻기.
+	///////////////////////////////////////
+	int GetFreeSize(void);
+
+	///////////////////////////////////////
+	// 버퍼 포인터로 외부에서 한번에 읽고 쓸 수 있는 길이
+	///////////////////////////////////////
+	int GetNotBrokenGetSize(void);
+	int GetNotBrokenPutsize(void);
+
+	///////////////////////////////////////
+	// Write 위치에 데이터 넣음.
+	///////////////////////////////////////
+	int Enqueue(char *_chpData, int _iSize);
+
+	///////////////////////////////////////
+	// Read 위치에 있는 데이터 가져옴. Read포인터 이동
+	///////////////////////////////////////
+	int Dequeue(char *_chpDest, int _iSize);
+
+	///////////////////////////////////////
+	// Read 위치에 있는 데이터 가져옴. Read포인터 고정
+	///////////////////////////////////////
+	int Peek(char *_chpDest, int _iSize);
+	int Peek(char *_chpDest, int _DestSize, int _iStartPos, int _iEndPos);
+
+	///////////////////////////////////////
+	// 원하는 길이만큼 Read위치에서 삭제.
+	///////////////////////////////////////
+	bool RemoveData(int _iSize);
+
+	///////////////////////////////////////
+	// 원하는 길이만큼 Write위치 이동.
+	///////////////////////////////////////
+	bool MoveWrite(int _iSize);
+
+	///////////////////////////////////////
+	// Buffer의 모든 데이터 삭제
+	///////////////////////////////////////
+	void ClearBuffer(void);
+
+	///////////////////////////////////////
+	// Read의 위치와 Write의 위치 각각 가져옴.
+	///////////////////////////////////////
+	char *GetBufferPtr(void);
+	char *GetReadBufferPtr(void);
+	char *GetWriteBufferPtr(void);
+
+	///////////////////////////////////////
+	int GetWritePos(void);
+	int GetReadPos(void);
+
+	
+	///////////////////////////////////////
+	// Enter Critical Section
+	void Lock(void);
+
+	///////////////////////////////////////
+	// Leave Critical Section
+	void Unlock(void);
+
+
+protected :
+	char *m_chpBuffer;					// Buffer 포인터
+	int m_iBufferSize;					// Buffer 사이즈
+	int m_iReadPos;						// Read 위치
+	int m_iWritePos;					// Write 위치
+	CRITICAL_SECTION m_csQueue;		// 스레드 환경을 위해 사용.
+};
