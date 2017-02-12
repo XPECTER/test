@@ -1,0 +1,85 @@
+[SYSTEM][2017-02-01 21:09:53 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-01 21:16:24 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-01 21:19:08 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-01 21:20:07 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-01 21:27:29 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-01 21:27:40 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-01 21:27:56 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 14:45:49 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 14:48:44 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 14:49:07 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 14:51:20 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:22:45 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:27:36 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:29:31 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:39:49 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:44:05 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:44:55 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:45:49 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:46:52 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:54:42 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:55:14 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 15:57:47 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:00:25 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:02:05 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:03:09 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:04:16 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:04:31 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:18:59 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:19:06 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:19:14 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:23:18 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-02 16:25:44 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-06 04:10:45 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-06 04:25:33 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:34:07 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:37:48 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:37:49 / ERROR / 0000000002]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:37:50 / ERROR / 0000000003]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:37:51 / ERROR / 0000000004]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:37:52 / ERROR / 0000000005]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:38:32 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 04:41:08 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:11 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:12 / WARNG / 0000000002]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:13 / ERROR / 0000000003]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:14 / WARNG / 0000000004]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:15 / ERROR / 0000000005]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:16 / WARNG / 0000000006]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:17 / ERROR / 0000000007]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:18 / WARNG / 0000000008]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:19 / ERROR / 0000000009]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:20 / WARNG / 0000000010]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:21 / ERROR / 0000000011]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:22 / WARNG / 0000000012]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:23 / ERROR / 0000000013]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:24 / WARNG / 0000000014]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:25 / ERROR / 0000000015]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:26 / WARNG / 0000000016]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:27 / ERROR / 0000000017]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:28 / WARNG / 0000000018]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:29 / ERROR / 0000000019]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:30 / WARNG / 0000000020]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:31 / ERROR / 0000000021]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:32 / WARNG / 0000000022]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:33 / ERROR / 0000000023]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:34 / WARNG / 0000000024]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:35 / ERROR / 0000000025]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:36 / WARNG / 0000000026]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:37 / ERROR / 0000000027]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:38 / WARNG / 0000000028]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:39 / ERROR / 0000000029]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:40 / WARNG / 0000000030]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:41 / ERROR / 0000000031]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:42 / WARNG / 0000000032]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:43 / ERROR / 0000000033]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:44 / WARNG / 0000000034]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:46 / ERROR / 0000000035]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:15:47 / WARNG / 0000000036]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:15:59 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:16:17 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-02-06 13:17:05 / ERROR / 0000000002]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:17:06 / WARNG / 0000000003]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-06 13:17:07 / ERROR / 0000000004]Not exist NAGLE_OPTION Key. Set default value false.
+[SYSTEM][2017-02-06 13:17:08 / WARNG / 0000000005]connect to server failed. ErrorNo : 10061
+[SYSTEM][2017-02-08 13:49:28 / ERROR / 0000000001]Not exist NAGLE_OPTION Key. Set default value false.

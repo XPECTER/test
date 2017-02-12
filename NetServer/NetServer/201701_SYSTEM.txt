@@ -1,0 +1,8 @@
+[SYSTEM][2017-01-20 19:19:47 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-20 19:21:47 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-20 19:22:54 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-20 19:24:24 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-20 19:25:47 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-20 19:27:55 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-20 19:29:12 / ERROR / 0000000001]//--------- Start ChatServer ---------//
+[SYSTEM][2017-01-25 14:37:18 / ERROR / 0000000001]//--------- Start ChatServer ---------//
